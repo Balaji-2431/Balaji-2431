@@ -1,27 +1,15 @@
-Hi 👋, I'm Balaji
+# Balaji <img src="https://img.shields.io/badge/%3C%2F%3E-00D9FF?style=flat-square&labelColor=000000" />
 
-🚀 Full Stack Developer | MERN Stack Developer
+### Python Full Stack Developer
 
-I'm a passionate Full Stack Developer who enjoys building practical, user-friendly, and scalable web applications.
+🚀 I build modern web applications and love to solve real-world
+🧩 problems with code.
 
-I love working with JavaScript, React, Node.js, Express.js, MongoDB, SQL, and Python and I'm continuously improving my development skills by building real-world projects.
-
----
-
-👨‍💻 About Me
-
-- 🔭 Currently working on Full Stack Web Development
-- 🌱 Currently learning Advanced Backend Development & System Design
-- 💻 Interested in MERN Stack & Backend Development
-- 🗄️ Experienced with SQL, MongoDB & SQLite
-- ⚡ I enjoy solving problems and building practical applications
-- 🎯 Goal: To become a strong Full Stack Developer
-- 📫 Connect with me on LinkedIn & GitHub
+📍 Theni, Tamil Nadu &nbsp;•&nbsp;
+🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;•&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
 
 ---
-
-🛠️ Tech Stack
-
 💻 Frontend
 
 <p>
@@ -43,6 +31,22 @@ I love working with JavaScript, React, Node.js, Express.js, MongoDB, SQL, and Py
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
 </p>---
+
+👨‍💻 About Me
+
+- 🔭 Currently working on Full Stack Web Development
+- 🌱 Currently learning Advanced Backend Development & System Design
+- 💻 Interested in MERN Stack & Backend Development
+- 🗄️ Experienced with SQL, MongoDB & SQLite
+- ⚡ I enjoy solving problems and building practical applications
+- 🎯 Goal: To become a strong Full Stack Developer
+- 📫 Connect with me on LinkedIn & GitHub
+
+---
+
+🛠️ Tech Stack
+
+
 
 🚀 Featured Projects
 
