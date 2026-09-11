@@ -2,11 +2,11 @@
 
 ### Python Full Stack Developer
 
-🚀 I build modern web applications and love to solve real-world
+🚀 I build modern web applications and love to solve real-world <br>
 🧩 problems with code.
 
-📍 Theni, Tamil Nadu &nbsp;&nbsp;|&nbsp;&nbsp;
-🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp;
+📍 Theni, Tamil Nadu &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
 
 ---
