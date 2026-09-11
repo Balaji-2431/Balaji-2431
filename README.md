@@ -1,12 +1,12 @@
-# Balaji <img src="https://img.shields.io/badge/%3C%2F%3E-00D9FF?style=flat-square&labelColor=000000" />
+# Balaji
 
 ### Python Full Stack Developer
 
 🚀 I build modern web applications and love to solve real-world
 🧩 problems with code.
 
-📍 Theni, Tamil Nadu &nbsp;•&nbsp;
-🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;•&nbsp;
+📍 Theni, Tamil Nadu &nbsp;&nbsp;|&nbsp;&nbsp;
+🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;|&nbsp;&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
 
 ---
