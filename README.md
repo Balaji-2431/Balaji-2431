@@ -73,6 +73,74 @@
 </p>
 
 ---
+### Featured Projects
+
+#### Spicy Hunt
+
+<img src="./images/project-1.png" width="300" align="left" />
+
+A responsive restaurant website designed to provide a clean, modern and
+user-friendly experience for browsing food items and exploring restaurant
+information. The website focuses on an attractive interface, responsive
+design and a smooth user experience across different screen sizes.
+
+<br><br>
+
+<strong>Tech:</strong> React.js · Vite · Tailwind CSS
+
+<br><br>
+
+<a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>
+&nbsp;&nbsp;
+<a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
+
+<br clear="left">
+
+---
+
+#### Alumni Management System
+
+<img src="./images/project-2.png" width="300" align="left" />
+
+A web-based application designed to manage alumni information, profiles
+and activities in an organized and efficient way. The system helps
+maintain alumni records, manage important details and make alumni
+information easier to access through a centralized platform.
+
+<br><br>
+
+<strong>Tech:</strong> Python · Django · PostgreSQL
+
+<br><br>
+
+<a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>
+&nbsp;&nbsp;
+<a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
+
+<br clear="left">
+
+---
+
+#### Expense Tracker
+
+<img src="./images/project-3.png" width="300" align="left" />
+
+A simple expense management application built to track income and daily
+expenses efficiently. It allows users to record transactions, monitor
+their spending and manage their monthly financial activities in a simple
+and organized way.
+
+<br><br>
+
+<strong>Tech:</strong> Python · SQLite
+
+<br><br>
+
+<a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>
+&nbsp;&nbsp;
+<a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
+
+<br clear="left">
 
 ### Featured Projects
 
