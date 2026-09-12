@@ -26,13 +26,13 @@
 
 ### 👨‍💻 About Me
 
-- Currently working on Full Stack Web Development
-- Currently learning Advanced Backend Development & System Design
-- Interested in Python Full Stack & Backend Development
-- Experienced with SQL, MongoDB & SQLite
-- I enjoy solving problems and building practical applications
-- Goal: To become a strong Full Stack Developer
-- Connect with me on LinkedIn & GitHub
+- Python Developer focused on building practical and user-friendly applications
+- Currently learning Django for backend and web application development
+- Experienced with Python, SQL and SQLite
+- Interested in backend development, REST APIs and database management
+- Strong interest in writing clean, structured and maintainable code
+- Enjoy solving problems and turning ideas into working applications
+- Goal: To become a skilled Python Developer and build reliable web applications
 
 ---
 
