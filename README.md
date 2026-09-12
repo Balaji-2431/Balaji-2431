@@ -47,8 +47,6 @@
   <img src="./icons/vite.svg" width="35" />
 </p>
 
-⚙️ Backend
-
 ##### ⚙️ Backend
 
 <p>
@@ -61,26 +59,24 @@
 <p>
   <img src="./icons/postgresql.svg" width="40" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/mongodb.svg" width="40" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/sqlite.svg" width="40" height="40" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/oracle.svg" width="40" height="40" />
 </p>
 
-🐍 Programming
+##### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript" />
+  <img src="./icons/git.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/github.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/vscode.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/pip.svg" width="40" height="40" />
 </p>
 
-🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
-</p>
 ---
-
 
 🛠️ Tech Stack
 
