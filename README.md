@@ -5,8 +5,8 @@
 
 <h3>Python Full Stack Developer</h3>
 
-> I build modern web applications and love to solve real-world <br>
-> problems with code.
+> "First, solve the problem. Then, write the code."
+> I build modern web applications and love to solve real-world problems with code.
 
 [Theni, Tamil Nadu](https://www.google.com/maps/search/Theni,+Tamil+Nadu,+India) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
