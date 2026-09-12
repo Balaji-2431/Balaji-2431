@@ -113,11 +113,11 @@ user-friendly experience for browsing food items and exploring restaurant
 information. The website focuses on an attractive interface, responsive
 design and a smooth user experience across different screen sizes.
 
-<br><br>
+<br>
 
 <strong>Tech:</strong> React.js · Vite · Tailwind CSS
 
-<br><br>
+<br>
 
 <a href="YOUR_LIVE_DEMO_LINK">
   <img src="./icons/eye.svg" width="20" height="20" /> Live
@@ -140,11 +140,11 @@ and activities in an organized and efficient way. The system helps
 maintain alumni records, manage important details and make alumni
 information easier to access through a centralized platform.
 
-<br><br>
+<br>
 
 <strong>Tech:</strong> Python · Django · PostgreSQL
 
-<br><br>
+<br>
 
 <a href="YOUR_LIVE_DEMO_LINK">
   <img src="./icons/eye.svg" width="20" height="20" /> Live
@@ -167,11 +167,11 @@ expenses efficiently. It allows users to record transactions, monitor
 their spending and manage their monthly financial activities in a simple
 and organized way.
 
-<br><br>
+<br>
 
 <strong>Tech:</strong> Python · SQLite
 
-<br><br>
+<br>
 
 <a href="YOUR_LIVE_DEMO_LINK">
   <img src="./icons/eye.svg" width="20" height="20" /> Live
