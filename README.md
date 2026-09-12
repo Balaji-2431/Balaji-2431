@@ -2,7 +2,8 @@
   B&nbsp;A&nbsp;L&nbsp;A&nbsp;J&nbsp;I&nbsp;&nbsp;
   <img src="./code.svg" width="34" height="34" />
 </h1>
-### Python Full Stack Developer
+
+<h3>Python Full Stack Developer</h3>
 
 🚀 I build modern web applications and love to solve real-world <br>
 🧩 problems with code.
