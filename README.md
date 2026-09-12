@@ -5,12 +5,12 @@
 
 <h3>Python Full Stack Developer</h3>
 
-- I build modern web applications and love to solve real-world <br>
-- problems with code.
+I build modern web applications and love to solve real-world <br>
+problems with code.
 
-📍 [Theni, Tamil Nadu](https://www.google.com/maps/search/Theni,+Tamil+Nadu,+India) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
+[Theni, Tamil Nadu](https://www.google.com/maps/search/Theni,+Tamil+Nadu,+India) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
 
 <br>
 <p>
@@ -75,7 +75,7 @@
 
 ### Featured Projects
 
-- #### Spicy Hunt
+#### Spicy Hunt
 
 A responsive restaurant website designed to provide a clean and user-friendly food browsing experience.
 
@@ -83,7 +83,7 @@ Tech: React.js, Vite, Tailwind CSS
 
 ---
 
-- #### Alumni Management System
+#### Alumni Management System
 
 A web-based system designed to manage alumni information and improve communication between alumni and the institution.
 
@@ -91,7 +91,7 @@ Tech: Web Development, Database Management
 
 ---
 
-- #### Expense Tracker
+#### Expense Tracker
 
 A personal expense management application for tracking income, expenses, categories, and current balance.
 
@@ -99,14 +99,14 @@ Tech: Python, SQLite
 
 ---
 
-💡 Developer Quote
+### 💡 Developer Quote
 
-«"First, solve the problem. Then, write the code."»
+> "First, solve the problem. Then, write the code."
 
 ---
 
-🚀 My Goal
+### 🎯 My Goal
 
-Learn → Build → Improve → Repeat 🔁
+**Learn → Build → Improve → Repeat**
 
 Thanks for visiting my profile! ⭐
