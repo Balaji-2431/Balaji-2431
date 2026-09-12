@@ -102,35 +102,6 @@ Tech: Python, SQLite
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-2431&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-2431&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>---
-
-🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Balaji-2431&theme=tokyonight&hide_border=true" />
-</p>---
-
-📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-2431&theme=tokyo-night&hide_border=true" />
-</p>---
-
-🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/balaji-full-stack-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>  <a href="https://github.com/Balaji-2431">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>---
-
 💡 Developer Quote
 
 «"First, solve the problem. Then, write the code."»
