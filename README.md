@@ -5,8 +5,8 @@
 
 <h3>Python Full Stack Developer</h3>
 
-🚀 I build modern web applications and love to solve real-world <br>
-🧩 problems with code.
+- I build modern web applications and love to solve real-world <br>
+- problems with code.
 
 📍 Theni, Tamil Nadu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,13 +25,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on Full Stack Web Development
-- 🌱 Currently learning Advanced Backend Development & System Design
-- 💻 Interested in MERN Stack & Backend Development
-- 🗄️ Experienced with SQL, MongoDB & SQLite
-- ⚡ I enjoy solving problems and building practical applications
-- 🎯 Goal: To become a strong Full Stack Developer
-- 📫 Connect with me on LinkedIn & GitHub
+- Currently working on Full Stack Web Development
+- Currently learning Advanced Backend Development & System Design
+- Interested in Python Full Stack & Backend Development
+- Experienced with SQL, MongoDB & SQLite
+- I enjoy solving problems and building practical applications
+- Goal: To become a strong Full Stack Developer
+- Connect with me on LinkedIn & GitHub
 
 ---
 
