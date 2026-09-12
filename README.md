@@ -1,5 +1,7 @@
-# Balaji&nbsp;&nbsp;<img src="./code.svg" width="34" height="34" />
-
+<h1>
+  B&nbsp;A&nbsp;L&nbsp;A&nbsp;J&nbsp;I&nbsp;&nbsp;
+  <img src="./code.svg" width="30" height="30" align="middle" />
+</h1>
 ### Python Full Stack Developer
 
 🚀 I build modern web applications and love to solve real-world <br>
