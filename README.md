@@ -1,4 +1,4 @@
-# Balaji&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./code.svg" width="34" height="34" />
+# Balaji&nbsp;&nbsp;<img src="./code.svg" width="34" height="34" />
 
 ### Python Full Stack Developer
 
