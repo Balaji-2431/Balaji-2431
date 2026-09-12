@@ -8,7 +8,7 @@
 - I build modern web applications and love to solve real-world <br>
 - problems with code.
 
-📍 Theni, Tamil Nadu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+📍 📍 [Theni, Tamil Nadu](https://www.google.com/maps/search/Theni,+Tamil+Nadu,+India) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
 
