@@ -76,6 +76,17 @@
 
 ### Featured Projects
 
+
+- #### Spicy Hunt
+
+  <img src="./images/project-1.png" width="300" /><br>
+  A responsive restaurant website focused on providing a clean and user-friendly food browsing experience.
+
+  **Tech:** React.js · Vite · Tailwind CSS
+
+  [Live Demo](YOUR_LINK) · [Source Code](YOUR_LINK)
+
+  
 - #### Spicy Hunt
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/project-1.png" width="300" /><br>
