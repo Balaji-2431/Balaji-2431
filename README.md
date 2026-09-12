@@ -14,16 +14,16 @@
 
 <br>
 <p>
-  <img src="./icons/python.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/react.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/django.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/postgresql.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/python.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/react.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/django.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/postgresql.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/github.svg" width="40" height="40" />
 </p>
 
 ---
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 - 🔭 Currently working on Full Stack Web Development
 - 🌱 Currently learning Advanced Backend Development & System Design
@@ -34,6 +34,8 @@
 - 📫 Connect with me on LinkedIn & GitHub
 
 ---
+
+### Tech Stack
 
 💻 Frontend
 
