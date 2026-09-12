@@ -40,40 +40,35 @@
 ##### 🎨 Frontend
 
 <p>
-  <img src="./icons/html.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/css.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/javascript.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/react.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/vite.svg" width="35" />
+  <img src="./icons/html.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/css.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/javascript.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/react.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/vite.svg" width="45" height="45" />
 </p>
 
 ##### ⚙️ Backend
 
 <p>
-  <img src="./icons/python.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/django.svg" width="40" height="40" />
+  <img src="./icons/python.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/django.svg" width="45" height="45" />
 </p>
 
 ##### 🗄️ Database
 
 <p>
-  <img src="./icons/postgresql.svg" width="40" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/sqlite.svg" width="40" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/oracle.svg" width="40" height="40" />
+  <img src="./icons/postgresql.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/sqlite.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/oracle.svg" width="45" height="45" />
 </p>
 
 ##### 🔧 Tools & Technologies
 
 <p>
-  <img src="./icons/git.svg" width="40" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/github.svg" width="40" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/vscode.svg" width="40" height="40" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/pip.svg" width="40" height="40" />
+  <img src="./icons/git.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/github.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/vscode.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/pip.svg" width="45" height="45" />
 </p>
 
 ---
