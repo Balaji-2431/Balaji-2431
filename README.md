@@ -76,6 +76,7 @@
 
 ### Featured Projects
 
+### Featured Projects
 
 - #### Spicy Hunt
 
@@ -85,7 +86,57 @@
 
   **Tech:** React.js · Vite · Tailwind CSS
 
-  [Live Demo](YOUR_LINK) · [Source Code](YOUR_LINK)
+  <img src="./icons/eye.svg" width="18" height="18" />
+  <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/github.svg" width="18" height="18" />
+  <a href="YOUR_SOURCE_CODE_LINK">Source Code</a>
+
+
+- #### Alumni Management System
+
+  <img src="./images/project-2.png" width="300" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A web-based system designed to manage alumni information, profiles and related activities efficiently.
+
+  **Tech:** Web Development · Database Management
+
+  <img src="./icons/eye.svg" width="18" height="18" />
+  <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/github.svg" width="18" height="18" />
+  <a href="YOUR_SOURCE_CODE_LINK">Source Code</a>
+
+
+- #### Expense Tracker
+
+  <img src="./images/project-3.png" width="300" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A simple expense tracking application for managing income, expenses and monthly spending.
+
+  **Tech:** Python · SQLite
+
+  <img src="./icons/eye.svg" width="18" height="18" />
+  <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/github.svg" width="18" height="18" />
+  <a href="YOUR_SOURCE_CODE_LINK">Source Code</a>
+
+---
+
+- #### Spicy Hunt
+
+  <img src="./images/project-1.png" width="300" />
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A responsive restaurant website focused on providing a clean and user-friendly food browsing experience.
+
+  **Tech:** React.js · Vite · Tailwind CSS
+
+    <img src="./icons/eye.svg" width="18" height="18" />&nbsp;
+  <a href="YOUR_LINK">Live Demo</a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="./icons/github.svg" width="18" height="18" />&nbsp;
+  <a href="YOUR_LINK">Source Code</a>
 
 
 - #### Spicy Hunt
