@@ -12,6 +12,8 @@
 🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
 
+<img src="./icons/python.svg" width="40" height="40" />
+
 ---
 💻 Frontend
 
