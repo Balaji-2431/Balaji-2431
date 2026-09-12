@@ -78,7 +78,7 @@
 
 #### Spicy Hunt
 
-<img src="./images/spicy-hunt.png" width="700" />
+<img src="./images/project-1.png" width="700" />
 
 A responsive restaurant website focused on providing a clean and user-friendly food browsing experience.
 
