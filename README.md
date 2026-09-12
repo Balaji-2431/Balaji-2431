@@ -79,23 +79,14 @@
 
 - #### Spicy Hunt
 
-  <img src="./images/project-1.png" width="300" /><br>
+  <p align="center"><img src="./images/project-1.png" width="300" /></p>
 
-  A responsive restaurant website focused on providing a clean and user-friendly food browsing experience.
+  &nbsp;&nbsp;&nbsp;&nbsp;A responsive restaurant website focused on providing a clean and user-friendly food browsing experience.
 
   **Tech:** React.js · Vite · Tailwind CSS
 
   [Live Demo](YOUR_LINK) · [Source Code](YOUR_LINK)
 
-- #### Spicy Hunt
-
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/project-1.png" width="300" /><br>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;A responsive restaurant website focused on providing a clean and user-friendly food browsing experience.
-
-  &nbsp;&nbsp;&nbsp;&nbsp;**Tech:** React.js · Vite · Tailwind CSS
-
-  &nbsp;&nbsp;&nbsp;&nbsp;[Live Demo](YOUR_LINK) · [Source Code](YOUR_LINK)
 
 - #### Spicy Hunt
 
