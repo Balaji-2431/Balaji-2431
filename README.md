@@ -11,7 +11,6 @@
 📍 Theni, Tamil Nadu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🌐 [Portfolio](https://myportfolio-sigma-one-32.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💼 [LinkedIn](https://www.linkedin.com/in/balaji-full-stack-developer/)
-
 <br>
 <p>
   <img src="./icons/python.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,6 +19,18 @@
   <img src="./icons/postgresql.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/github.svg" width="40" height="40" />
 </p>
+
+---
+
+👨‍💻 About Me
+
+- 🔭 Currently working on Full Stack Web Development
+- 🌱 Currently learning Advanced Backend Development & System Design
+- 💻 Interested in MERN Stack & Backend Development
+- 🗄️ Experienced with SQL, MongoDB & SQLite
+- ⚡ I enjoy solving problems and building practical applications
+- 🎯 Goal: To become a strong Full Stack Developer
+- 📫 Connect with me on LinkedIn & GitHub
 
 ---
 
@@ -43,22 +54,11 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" />
-</p>---
-
-👨‍💻 About Me
-
-- 🔭 Currently working on Full Stack Web Development
-- 🌱 Currently learning Advanced Backend Development & System Design
-- 💻 Interested in MERN Stack & Backend Development
-- 🗄️ Experienced with SQL, MongoDB & SQLite
-- ⚡ I enjoy solving problems and building practical applications
-- 🎯 Goal: To become a strong Full Stack Developer
-- 📫 Connect with me on LinkedIn & GitHub
-
+</p>
 ---
 
-🛠️ Tech Stack
 
+🛠️ Tech Stack
 
 
 🚀 Featured Projects
