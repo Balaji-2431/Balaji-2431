@@ -82,7 +82,6 @@ A responsive restaurant website designed to provide a clean and user-friendly fo
 
 Tech: React.js, Vite, Tailwind CSS
 
----
 
 #### Alumni Management System
 
@@ -90,7 +89,6 @@ A web-based system designed to manage alumni information and improve communicati
 
 Tech: Web Development, Database Management
 
----
 
 #### Expense Tracker
 
