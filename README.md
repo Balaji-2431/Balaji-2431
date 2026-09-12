@@ -20,6 +20,7 @@
   <img src="./icons/postgresql.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/github.svg" width="40" height="40" />
 </p>
+<br>
 
 ---
 
