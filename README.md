@@ -75,7 +75,7 @@
 
 ### Featured Projects
 
-- ##### Spicy Hunt
+- #### Spicy Hunt
 
 A responsive restaurant website designed to provide a clean and user-friendly food browsing experience.
 
@@ -83,7 +83,7 @@ Tech: React.js, Vite, Tailwind CSS
 
 ---
 
-- ##### Alumni Management System
+- #### Alumni Management System
 
 A web-based system designed to manage alumni information and improve communication between alumni and the institution.
 
@@ -91,7 +91,7 @@ Tech: Web Development, Database Management
 
 ---
 
-- ##### Expense Tracker
+- #### Expense Tracker
 
 A personal expense management application for tracking income, expenses, categories, and current balance.
 
