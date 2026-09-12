@@ -100,13 +100,13 @@ Tech: Python, SQLite
 
 ---
 
-### 💡 Developer Quote
+### Developer Quote
 
 > "First, solve the problem. Then, write the code."
 
 ---
 
-### 🎯 My Goal
+### My Goal
 
 **Learn → Build → Improve → Repeat**
 
