@@ -40,24 +40,35 @@
 ##### 🎨 Frontend
 
 <p>
-  <img src="./icons/html.svg" width="35" />
-  <img src="./icons/css.svg" width="35" />
-  <img src="./icons/javascript.svg" width="35" />
-  <img src="./icons/react.svg" width="35" />
+  <img src="./icons/html.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/css.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/javascript.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/react.svg" width="35" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/vite.svg" width="35" />
 </p>
 
 ⚙️ Backend
 
+##### ⚙️ Backend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="./icons/python.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/django.svg" width="40" height="40" />
 </p>
 
-🗄️ Database
+##### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite" />
-</p>🐍 Programming
+  <img src="./icons/postgresql.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/mongodb.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/sqlite.svg" width="40" height="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./icons/oracle.svg" width="40" height="40" />
+</p>
+
+🐍 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript" />
