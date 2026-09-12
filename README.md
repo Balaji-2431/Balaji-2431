@@ -84,9 +84,9 @@
   user-friendly experience for browsing food items and exploring restaurant
   information. The website focuses on an attractive interface, responsive
   design and a smooth user experience across different screen sizes.
-  <br>
+  <br><br>
   <strong>Tech:</strong> React.js · Vite · Tailwind CSS
-  <br>
+  <br><br>
   <a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>&nbsp;&nbsp;
   <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
   <br clear="right">
