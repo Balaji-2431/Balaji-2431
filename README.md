@@ -1,6 +1,6 @@
 <h1>
   B&nbsp;A&nbsp;L&nbsp;A&nbsp;J&nbsp;I&nbsp;&nbsp;
-  <img src="./code.svg" width="30" height="30" align="middle" />
+  <img src="./code.svg" width="30" height="30" />
 </h1>
 ### Python Full Stack Developer
 
