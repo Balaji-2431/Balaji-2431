@@ -82,25 +82,23 @@
       <img src="./images/project-1.png" width="300" />
     </td>
 
-    <td width="60%">
+  <td width="60%">
       <h4>Spicy Hunt</h4>
 
-      A responsive restaurant website designed to provide a clean,
+  A responsive restaurant website designed to provide a clean,
       modern and user-friendly experience for browsing food items
       and exploring restaurant information.
 
-      <br><br>
+  <br><br>
 
-      <strong>Tech:</strong> React.js · Vite · Tailwind CSS
+  <strong>Tech:</strong> React.js · Vite · Tailwind CSS
 
-      <br><br>
+   <br><br>
 
-      <a href="YOUR_LIVE_DEMO_LINK">
+  <a href="YOUR_LIVE_DEMO_LINK">
         <img src="./icons/eye.svg" width="20" height="20" /> Live
       </a>
-
-      &nbsp;&nbsp;&nbsp;&nbsp;
-
+    &nbsp;&nbsp;&nbsp;&nbsp;
       <a href="YOUR_SOURCE_CODE_LINK">
         <img src="./icons/github.svg" width="18" height="18" /> Source Code
       </a>
