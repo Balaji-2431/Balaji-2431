@@ -76,6 +76,108 @@
 
 ### Featured Projects
 
+<table>
+  <tr>
+    <td width="40%">
+      <img src="./images/project-1.png" width="300" />
+    </td>
+
+    <td width="60%">
+      <h4>Spicy Hunt</h4>
+
+      A responsive restaurant website designed to provide a clean,
+      modern and user-friendly experience for browsing food items
+      and exploring restaurant information.
+
+      <br><br>
+
+      <strong>Tech:</strong> React.js · Vite · Tailwind CSS
+
+      <br><br>
+
+      <a href="YOUR_LIVE_DEMO_LINK">
+        <img src="./icons/eye.svg" width="20" height="20" /> Live
+      </a>
+
+      &nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a href="YOUR_SOURCE_CODE_LINK">
+        <img src="./icons/github.svg" width="18" height="18" /> Source Code
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="./images/project-2.png" width="300" />
+    </td>
+
+    <td width="60%">
+      <h4>Alumni Management System</h4>
+
+      A web-based application designed to manage alumni information,
+      profiles and activities in an organized and efficient way.
+      The system helps maintain alumni records and makes information
+      easier to manage and access.
+
+      <br><br>
+
+      <strong>Tech:</strong> Python · Django · PostgreSQL
+
+      <br><br>
+
+      <a href="YOUR_LIVE_DEMO_LINK">
+        <img src="./icons/eye.svg" width="20" height="20" /> Live
+      </a>
+
+      &nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a href="YOUR_SOURCE_CODE_LINK">
+        <img src="./icons/github.svg" width="18" height="18" /> Source Code
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="./images/project-3.png" width="300" />
+    </td>
+
+    <td width="60%">
+      <h4>Expense Tracker</h4>
+
+      A simple expense management application built to track income
+      and daily expenses. It helps users record transactions, monitor
+      spending and manage their monthly financial activities easily.
+
+      <br><br>
+
+      <strong>Tech:</strong> Python · SQLite
+
+      <br><br>
+
+      <a href="YOUR_LIVE_DEMO_LINK">
+        <img src="./icons/eye.svg" width="20" height="20" /> Live
+      </a>
+
+      &nbsp;&nbsp;&nbsp;&nbsp;
+
+      <a href="YOUR_SOURCE_CODE_LINK">
+        <img src="./icons/github.svg" width="18" height="18" /> Source Code
+      </a>
+    </td>
+  </tr>
+</table>
+---
+
 ### Featured Projects
 
 - #### Spicy Hunt
