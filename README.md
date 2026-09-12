@@ -86,8 +86,7 @@
 
   **Tech:** React.js · Vite · Tailwind CSS
 
-  <img src="./icons/eye.svg" width="18" height="18" />
-  <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+  <a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="18" height="16" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/github.svg" width="18" height="18" />
   <a href="YOUR_SOURCE_CODE_LINK">Source Code</a>
