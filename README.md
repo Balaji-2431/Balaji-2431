@@ -76,10 +76,10 @@
 
 ### Featured Projects
 
-<h4><u>Spicy Hunt</u></h4>
+<li><strong><u>Spicy Hunt</u></strong></li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/project-1.png" width="300" />
-
+<p align="center">Hii that is our 1st project</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A responsive restaurant website focused on providing a clean and user-friendly food browsing experience.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Tech:** React.js · Vite · Tailwind CSS
