@@ -76,7 +76,7 @@
 
 ### Featured Projects
 
-#### Spicy Hunt
+#### <u>Spicy Hunt</u>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./images/project-1.png" width="300" />
 
