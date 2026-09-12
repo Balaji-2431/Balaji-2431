@@ -91,11 +91,11 @@
   <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
   <br clear="right">
 
----
+<br>
 
 - #### Alumni Management System
 
-  <img src="./images/project-2.png" width="400" align="right" />
+  <img src="./images/project-1.png" width="400" align="right" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;A web-based application designed to manage alumni information, profiles and
   activities in an organized and efficient way. The system helps maintain
@@ -108,10 +108,11 @@
   <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
   <br clear="right">
 
+<br>
 
 - #### Expense Tracker
 
-  <img src="./images/project-3.png" width="400" align="right" />
+  <img src="./images/project-1.png" width="400" align="right" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;A simple expense management application built to track income and daily
   expenses efficiently. It allows users to record transactions, monitor
