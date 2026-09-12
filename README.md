@@ -86,9 +86,9 @@
 
   **Tech:** React.js · Vite · Tailwind CSS
 
-  <a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="18" height="18" />Live</a>
+  <a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" />Source Code</a>
+  <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
 
 
 - #### Alumni Management System
