@@ -45,8 +45,7 @@ I'm a Python Developer focused on building practical and user-friendly applicati
   <img src="./icons/html.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/css.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/javascript.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/react.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/vite.svg" width="45" height="45" />
+  <img src="./icons/react.svg" width="45" height="45" />
 </p>
 
 ##### Backend
@@ -69,8 +68,7 @@ I'm a Python Developer focused on building practical and user-friendly applicati
 <p>
   <img src="./icons/git.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./icons/github.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/vscode.svg" width="45" height="45" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./icons/pip.svg" width="45" height="45" />
+  <img src="./icons/vscode.svg" width="45" height="45" />
 </p>
 
 ---
