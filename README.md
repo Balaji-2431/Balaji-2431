@@ -26,13 +26,14 @@
 
 ### 👨‍💻 About Me
 
-- Python Developer focused on building practical and user-friendly applications
-- Currently learning Django for backend and web application development
-- Experienced with Python, SQL and SQLite
-- Interested in backend development, REST APIs and database management
-- Strong interest in writing clean, structured and maintainable code
-- Enjoy solving problems and turning ideas into working applications
-- Goal: To become a skilled Python Developer and build reliable web applications
+I'm a Python Developer focused on building practical and user-friendly applications.
+
+- Currently learning Django for backend and web development.
+- Comfortable with Python, SQL, and SQLite.
+- Interested in backend development, REST APIs, and database management.
+- I enjoy writing clean, simple, and maintainable code.
+- I like solving problems and turning ideas into working applications.
+- My goal is to grow as a Python Developer and build reliable web applications.
 
 ---
 
@@ -88,7 +89,9 @@
   <strong>Tech:</strong> React.js · Vite · Tailwind CSS
   <br><br>
   <a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>&nbsp;&nbsp;
-  <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
+  <a href="YOUR_REPOSITORY_LINK">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   <br clear="right">
 
 <br>
