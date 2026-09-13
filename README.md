@@ -107,8 +107,9 @@ I'm a Python Developer focused on building practical and user-friendly applicati
   <br><br>
   <strong>Tech:</strong> Python · Django · PostgreSQL
   <br><br>
-  <a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>&nbsp;&nbsp;
-  <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
+  <a href="YOUR_REPOSITORY_LINK">
+  <img src="https://img.shields.io/badge/View%20Repository-3776AB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   <br clear="right">
 
 <br>
@@ -124,8 +125,9 @@ I'm a Python Developer focused on building practical and user-friendly applicati
   <br><br>
   <strong>Tech:</strong> Python · SQLite
   <br><br>
-  <a href="YOUR_LIVE_DEMO_LINK"><img src="./icons/eye.svg" width="20" height="20" /> Live</a>&nbsp;&nbsp;
-  <a href="YOUR_SOURCE_CODE_LINK"><img src="./icons/github.svg" width="18" height="18" /> Source Code</a>
+  <a href="YOUR_REPOSITORY_LINK">
+  <img src="https://img.shields.io/badge/View%20Repository-3776AB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   <br clear="right">
   
 ---
